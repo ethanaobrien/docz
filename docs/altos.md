@@ -4,12 +4,11 @@ layout: default
 nav_order: 10
 ---
 
-## altOS Pros / Cons
+# altOS Pros / Cons
 
------------------------
+---
 
-
-**Windows:**
+## Windows
 
 Pros:
 * Works on most platforms with minimal tweaking¹
@@ -26,11 +25,11 @@ Cons:
 
 <br>
 
-¹Some devices such as CELES need workarounds. Additionally, AMD Ryzen devices need to use CoolStar's RW_LEGACY script in order to boot Windows. Refer to the [known issues page](known-issues.html) to check whether you need patches.
+¹Some devices such as CELES need workarounds. Refer to the [known issues page](known-issues.html) to check whether you need patches.
 
-----------
+---
 
-**Linux**
+## Linux
 
 Pros:
 * Free audio support 
@@ -49,10 +48,9 @@ Cons:
 
 ### [Installing Linux →](installing-linux.html)
 
+---
 
-----------
-
-**macOS**
+## macOS
 
 Pros:
 * OS experience is near identical to a Mac
@@ -71,7 +69,6 @@ Any Chromebook with a ARM, Celeron or Pentium CPU is not supported. AMD Ryzen mi
 ### [Installing macOS →](installing-macos.html)
 
 <br>
-
 
 <table>
 <tr>

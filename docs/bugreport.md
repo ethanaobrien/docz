@@ -4,7 +4,7 @@ layout: default
 nav_order: 28
 ---
 
-## Bug Reporting
+# Bug Reporting
 
 So you find a bug in one of our projects, and want to report it. It's faily simple,
 
@@ -15,7 +15,6 @@ So you find a bug in one of our projects, and want to report it. It's faily simp
 4. Wait patiently for a contributor to fix the issue.
   - Please keep in mind the majority of us contributors have other things going on in our lives.
 <br>
+
 {: .note }
-
 Do not submit personal help requests in the bugtracker. 
-

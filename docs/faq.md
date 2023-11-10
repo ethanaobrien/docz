@@ -6,10 +6,10 @@ nav_order: 2
 
 # FAQ
 
+<br> 
+
 {: .highlight }
 Please read this page before asking a question in the Discord. Your help request will be ignored if the answer is found on the FAQ.
-
------
 
 **Can I pay for Windows drivers using PayPal?**
 * You can pay via PayPal in Patreon.

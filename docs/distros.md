@@ -6,11 +6,12 @@ parent: Advanced
 ---
 
 
-## Linux distro-specific Configuration
+# Linux distro-specific Configuration
 
----------
 
-### NixOS
+<br>
+
+## NixOS
 
 - Enable and configure keyd (Example is cros-standard. Adjust as you need!)  
 ```nix
