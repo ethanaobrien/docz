@@ -6,6 +6,15 @@ nav_order: 11
 
 # Installing Windows
 
+### Terminology
+
+| **Term** | **Description** |  
+| - | - |
+| UEFI         | The Unified Extensible Firmware Interface (UEFI) is a specification that defines a software interface between an operating system and platform firmware. UEFI replaces the legacy Basic Input/Output System (BIOS) firmware interface originally present in all IBM PC-compatible personal computers, with most UEFI firmware implementations providing support for legacy BIOS services. UEFI can support remote diagnostics and repair of computers, even with no operating system installed. (source: Wikipedia)
+| POST         | Stands for **P**ower **O**n **S**elf **T**est. POST is a process performed by firmware or software routines immediately after a computer or other digital electronic device is powered on.
+
+<br>
+
 {: .warning }
 Do not use Windows 8 or older. Only recent Windows 10 and 11 builds are supported.
 

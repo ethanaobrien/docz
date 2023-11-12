@@ -5,7 +5,6 @@ nav_order: 12
 ---
 
 # Installing Linux
-
 Thanks to recent advancements in the chrultrabook community, Linux works really well on most Chromebooks.
 
 {: .note } 

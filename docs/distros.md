@@ -8,7 +8,6 @@ parent: Advanced
 
 # Linux distro-specific Configuration
 
-
 <br>
 
 ## NixOS
